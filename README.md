@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gayathrikrishnamoorthy
-- 👀 I’m interested in frontend development 
+- 👀 I’m interested in fullstack development 
 - 🌱 I’m currently learning b.tech IT
 - 📫 Reach me on linkedin👉🏼...https://www.linkedin.com/in/gayathri-krishnamoorthy-bab84a2b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 -Thank u for visiting my page😊
